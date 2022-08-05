@@ -1,4 +1,4 @@
-# F-V-profiling
+# F-V profiling
 
 This tool has been designed to help achieve proper data acquisition (i.e. you can use it during testing) and analysis (i.e. you can use it after testing). 
 
