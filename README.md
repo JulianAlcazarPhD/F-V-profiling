@@ -30,7 +30,4 @@ Dr. Carlos Rodriguez-Lopez (Post-doc Researcher at the Gregorio Marañon Hospita
 
 For any questions or comments you can send an email to: julian.alcazar@uclm.es
 
-Note: Before you start for the first time, make sure you have loaded the Solver add-in in Excel.
-
-Instructions and more info here:
-https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca#OfficeVersion=Windows
+Note: Before you start for the first time, make sure you have loaded the Solver add-in in Excel. Instructions and more info here: https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca#OfficeVersion=Windows
